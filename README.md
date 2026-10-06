@@ -22,4 +22,4 @@ TypeScript · React · React Native · Next.js · Node.js · Java / Spring Boot 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-ramos-b59442170)
+[LinkedIn](https://www.linkedin.com/in/andre-ramos-b59442170)
